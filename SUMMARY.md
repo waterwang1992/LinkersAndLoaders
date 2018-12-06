@@ -6,4 +6,4 @@
     * [温故而知新](gainNewKnowledgeByReviewingOld.md)
 * 第二部分 静态链接
     * [编译和链接](compileAndLink.md)
-
+    * 暂且到这里...
