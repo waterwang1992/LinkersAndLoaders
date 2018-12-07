@@ -83,6 +83,28 @@ C语言内存分布图:
 ### 运行库的实现
 略
 
+# 推荐书籍
+
+-  ___Linkers and Loaders___, John R. Levine,这本书基本上是链接和装载方面最为完和权
+的理论著作了,但是内容有些偏旧,井且有些涩。
+
+- ___Intel 64and IA-32 Architectures Software Developer' s Manuals___, Intel官方的 x64 和 x86CPU 的技术手册,总共分3卷,另外还有几本优化手册,这些手册不适合通读,但强烈
+建议阅读其中的介绍性章节,并且手边能够常备一份,以使要时查阅,查阅网址
+http://wintelcom/products/processor/manuals/.
+
+- ___Linux内核源代码情景分析___ ,毛德操,胡希明。这部书分为上下两卷,总共近2000页,
+虽然出版年份较早(2001年出版),而且是基于 Linux2.4内核的,但是它对很多细节的描述非常到位,比很多Liunx内核的书籍要详细, 值得一看.
+
+- ___深入理解计算机系统___ ( Computer Systems A Programmer' s Perspective, Randal E. Bryant 和 David O'hallaron著)。这本书对整个计算机软使件体系结构进行了深入浅出的介绍,是
+理解系统底层不可多得的好书,强烈推荐!
+
+- ___深入解析Windows操作系统,第4版 ---- Microsoft Windows Server 2003/Windows
+XP/Windows2000技术内幕___, Mark E. Russinovich(著),潘爱民(译)。这本书是理解 Windows
+内核最好的选择,至少我没有看到任何一本描述关于 Windows内核的书能与它相媲美.
+
+- ___Advanced Programming in the UNIX Environment. Second Edition___ w. Richard Stevens, Stephen A.Rago . 这本书被誉为UNIX程序设计的“圣经”,也是了解UNIX系统内核,运行
+库和执行环境的很好选择.
+
 [程序员自我修养读书笔记](https://www.jianshu.com/p/31108b62f81d)
 
 
